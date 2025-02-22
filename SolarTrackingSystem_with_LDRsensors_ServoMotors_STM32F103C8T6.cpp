@@ -95,5 +95,5 @@ void loop() {
     horizontal.write(servohori); // Set the horizontal servo to the new angle
   }
 
-  delay(10); // Wait for a short time before the next sensor reading
+  delay(10); 
 }
